@@ -34,7 +34,7 @@
 		            <tr bgcolor="#CCCCCC">
 			            <th>Id</th>
 			            <th>Categorie Name</th>
-			            <th>Product</th>
+				    <th>Product</th>
 		            </tr>	
      <?php
          $koneksi =mysqli_connect("localhost", "root", "", "gudang");
