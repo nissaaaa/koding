@@ -13,7 +13,7 @@
 				die("Koneksi Gagal:". $koneksi-> connect_error);
 			}else {
 				$query="SELECT * from categories ";
-				$query2="SELECT  GROUP_CONCAT(Name separator ',') as nama_produk from product GROUP BY categories_id";
+				$query2="SELECT  GROUP_CONCAT(Name separator ',') as nama_produk from product GROUP BY Categories_id";
 
 				$result=$koneksi->query($query);
 				$result2=$koneksi->query($query2);
