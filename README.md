@@ -1,4 +1,4 @@
-koding adalah repository untuk menjawab soal arkademy batch 9. berikut ini penjelasan mengenai pemecahan soal <br>
+
 NB:semua program dalam projek ini saya buat dengan bahasa PHP dengan menggunakan editor notepad++. Untuk menjalankannya maka harus menjalankan XAMPP (start apache dan mysql) kemudian masing2 file diletakkann pada folder <strong>XAMPP/htdocs</strong> kemudian pada browser ketikkan <strong>localhost/namafile.php </strong><br>
 
 <strong>1.Function untuk mencetak biodata dengan keluaran JSON </strong> <br>
